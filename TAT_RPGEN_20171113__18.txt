@@ -1,0 +1,22 @@
+Started Generating report for 20171113 18
+	Generating report for Gardline_Geosurvey Project
+		Generating report for Location MV_Ocean_Researcher
+		Report for Location MV_Ocean_Researcher Generated
+		File : /syndata/oreport/rreports/20171113/MV_Ocean_Researcher_Weather_Report_2017-11-14_02-00.pdf
+		Generating report for Location EA_One
+		Report for Location EA_One Generated
+		File : /syndata/oreport/rreports/20171113/EA_One_Weather_Report_2017-11-14_06-00.pdf
+		Generating report for Location MV_Ocean_Reliance
+		Report for Location MV_Ocean_Reliance Generated
+		File : /syndata/oreport/rreports/20171113/MV_Ocean_Reliance_Weather_Report_2017-11-14_07-00.pdf
+	Generating report for Total TEPM
+		Generating report for Location Yadana
+		Report for Location Yadana Generated
+		File : /syndata/oreport/rreports/20171113/Yadana_Weather_Report_2017-11-14_12-00.pdf
+	Generating report for Sapura ASIA
+		Generating report for Location Bualuang
+		Report for Location Bualuang Generated
+		File : /syndata/oreport/rreports/20171113/Bualuang_Weather_Report_2017-11-14_13-00.pdf
+		Generating report for Location F12
+		Report for Location F12 Generated
+		File : /syndata/oreport/rreports/20171113/F12_Weather_Report_2017-11-14_14-00.pdf

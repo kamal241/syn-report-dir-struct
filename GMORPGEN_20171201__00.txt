@@ -1,0 +1,3 @@
+Started Generating report for 20171201 00
+	Generating report for Dialog_Plant_Services Project
+		Generating report for Location Pengerang_Terminal

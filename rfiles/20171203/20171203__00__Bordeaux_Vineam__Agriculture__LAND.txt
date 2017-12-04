@@ -1,0 +1,7 @@
+client,lname,reportfile,lcid
+Bordeaux_Vineam,Moulin_a_vent,/syndata/oreport/rreports/20171203/Moulin_a_vent_Land_Report_2017-12-03_14-00.pdf,201
+Bordeaux_Vineam,Grillon,/syndata/oreport/rreports/20171203/Grillon_Land_Report_2017-12-03_14-00.pdf,202
+Bordeaux_Vineam,Rocher_Bellevue,/syndata/oreport/rreports/20171203/Rocher_Bellevue_Land_Report_2017-12-03_14-00.pdf,203
+Bordeaux_Vineam,Bourdicotte,/syndata/oreport/rreports/20171203/Bourdicotte_Land_Report_2017-12-03_14-00.pdf,204
+Bordeaux_Vineam,Grand_Ferrand,/syndata/oreport/rreports/20171203/Grand_Ferrand_Land_Report_2017-12-03_14-00.pdf,205
+Bordeaux_Vineam,La_Salagre,/syndata/oreport/rreports/20171203/La_Salagre_Land_Report_2017-12-03_14-00.pdf,206

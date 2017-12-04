@@ -1,0 +1,5 @@
+client,lname,reportfile,lcid
+Gardline_Geosurvey,MV_Ocean_Researcher,/syndata/oreport/rreports/20171203/MV_Ocean_Researcher_Weather_Report_2017-12-03_08-00.pdf,112
+Gardline_Geosurvey,EA_One,/syndata/oreport/rreports/20171203/EA_One_Weather_Report_2017-12-03_12-00.pdf,113
+Gardline_Geosurvey,MV_Ocean_Reliance,/syndata/oreport/rreports/20171203/MV_Ocean_Reliance_Weather_Report_2017-12-03_13-00.pdf,114
+Gardline_Geosurvey,MV_Ocean_Observer,/syndata/oreport/rreports/20171203/MV_Ocean_Observer_Weather_Report_2017-12-03_13-00.pdf,128

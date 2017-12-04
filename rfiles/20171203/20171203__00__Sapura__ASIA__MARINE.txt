@@ -1,0 +1,3 @@
+client,lname,reportfile,lcid
+Sapura,Bualuang,/syndata/oreport/rreports/20171203/Bualuang_Weather_Report_2017-12-03_19-00.pdf,2
+Sapura,F12,/syndata/oreport/rreports/20171203/F12_Weather_Report_2017-12-03_20-00.pdf,3

@@ -1,0 +1,13 @@
+Started Generating report for 20171106 06
+	Generating report for Total_EP_Myanmar Project
+		Generating report for Location Yadana_Field
+		Report for Location Yadana_Field Generated
+		File : /syndata/oreport/rreports/20171106/Yadana_Field_Weather_Report_2017-11-07_00-00.pdf
+	Generating report for Global_Marine_Group Project
+		Generating report for Location Limin_Venture
+		Report for Location Limin_Venture Generated
+		File : /syndata/oreport/rreports/20171106/Limin_Venture_Weather_Report_2017-11-07_01-00.pdf
+	Generating report for PT_TIMAS_SUPLINDO Project
+		Generating report for Location DLB01
+		Report for Location DLB01 Generated
+		File : /syndata/oreport/rreports/20171106/DLB01_Weather_Report_2017-11-07_01-00.pdf

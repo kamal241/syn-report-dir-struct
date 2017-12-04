@@ -1,0 +1,3 @@
+client,lname,reportfile,lcid
+TRPCL_ADV_TEST,TA_TESTLOC_1,/syndata/oreport/rreports/20171203/TA_TESTLOC_1_Weather_Report_2017-12-04_12-00.pdf,91
+TRPCL_ADV_TEST,CYCLONE_TEST1,/syndata/oreport/rreports/20171203/CYCLONE_TEST1_Weather_Report_2017-12-04_14-00.pdf,92

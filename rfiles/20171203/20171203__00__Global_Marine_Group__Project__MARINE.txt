@@ -1,0 +1,2 @@
+client,lname,reportfile,lcid
+Global_Marine_Group,Limin_Venture,/syndata/oreport/rreports/20171203/Limin_Venture_Weather_Report_2017-12-03_19-00.pdf,117

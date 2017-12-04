@@ -1,0 +1,27 @@
+Started Generating report for 20171201 00
+	Generating report for Bordeaux_Vineam Agriculture
+		Generating report for Location Moulin_a_vent
+Input output problem		Generating report for Location Grillon
+Input output problem		Generating report for Location Rocher_Bellevue
+Input output problem		Generating report for Location Bourdicotte
+Input output problem		Generating report for Location Grand_Ferrand
+Input output problem		Generating report for Location La_Salagre
+Input output problem	Generating report for SYNERGY EXP
+		Generating report for Location Saint-Ferme
+Input output problem		Generating report for Location Melbourne
+Input output problem		Generating report for Location TSTLOC_3
+Input output problem		Generating report for Location TSTLOC_4
+Input output problem		Generating report for Location Avignon
+Input output problem		Generating report for Location Reading
+Input output problem		Generating report for Location Bergen
+Input output problem		Generating report for Location Montreal
+Input output problem		Generating report for Location Philadelphia
+Input output problem		Generating report for Location Tierra_del_Fuego
+Input output problem		Generating report for Location Lagos
+Input output problem		Generating report for Location Doha
+Input output problem		Generating report for Location Mumbai
+Input output problem		Generating report for Location Chittagong
+Input output problem		Generating report for Location Singapore
+Input output problem		Generating report for Location Hong_Kong
+Input output problem		Generating report for Location Tokyo
+Input output problem

@@ -1,0 +1,5 @@
+client,lname,reportfile,lcid
+Sapura_Energy,Emerald,/syndata/oreport/rreports/20171203/Emerald_Weather_Report_2017-12-03_17-00.pdf,121
+Sapura_Energy,BCPA_Site,/syndata/oreport/rreports/20171203/BCPA_Site_Weather_Report_2017-12-03_17-00.pdf,122
+Sapura_Energy,B55_Site,/syndata/oreport/rreports/20171203/B55_Site_Weather_Report_2017-12-03_17-00.pdf,123
+Sapura_Energy,WI6_Site,/syndata/oreport/rreports/20171203/WI6_Site_Weather_Report_2017-12-03_17-00.pdf,124

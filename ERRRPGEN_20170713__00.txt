@@ -1,0 +1,4 @@
+Started Generating report for 20170713 00
+	Generating report for Total TEPM
+		Generating report for Location Atlantic
+'ascii' codec can't encode character u'\xb0' in position 51: ordinal not in range(128)

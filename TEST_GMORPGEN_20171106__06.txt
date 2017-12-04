@@ -1,0 +1,3 @@
+Started Generating report for 20171106 06
+	Generating report for Total_EP_Myanmar Project
+		Generating report for Location Yadana_Field

@@ -1,0 +1,5 @@
+Started Generating report for 20171015 18
+	Generating report for TRPCL_ADV_TEST Project
+		Generating report for Location TA_TESTLOC_1
+		Report for Location TA_TESTLOC_1 Generated
+		File : /syndata/oreport/rreports/20171015/TA_TESTLOC_1_Weather_Report_2017-10-16_12-00.pdf

@@ -1,0 +1,5 @@
+Started Generating report for 20171105 00
+	Generating report for PT_TIMAS_SUPLINDO Project
+		Generating report for Location DLB01
+		Report for Location DLB01 Generated
+		File : /syndata/oreport/rreports/20171105/DLB01_Weather_Report_2017-11-05_19-00.pdf

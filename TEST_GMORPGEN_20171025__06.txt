@@ -1,0 +1,8 @@
+Started Generating report for 20171025 06
+	Generating report for TSapura ASIA
+		Generating report for Location TBualuang
+		Report for Location TBualuang Generated
+		File : /syndata/oreport/rreports/20171025/TBualuang_Weather_Report_2017-10-26_01-00.pdf
+		Generating report for Location TF12
+		Report for Location TF12 Generated
+		File : /syndata/oreport/rreports/20171025/TF12_Weather_Report_2017-10-26_02-00.pdf

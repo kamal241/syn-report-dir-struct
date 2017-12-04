@@ -1,0 +1,2 @@
+client,lname,reportfile,lcid
+Total_EP_Myanmar,Yadana_Field,/syndata/oreport/rreports/20171203/Yadana_Field_Weather_Report_2017-12-04_00-00.pdf,127

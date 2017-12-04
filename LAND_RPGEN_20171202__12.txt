@@ -1,0 +1,72 @@
+Started Generating report for 20171202 12
+	Generating report for Bordeaux_Vineam Agriculture
+		Generating report for Location Moulin_a_vent
+		Report for Location Moulin_a_vent Generated
+		File : /syndata/oreport/rreports/20171202/Moulin_a_vent_Land_Report_2017-12-03_02-00.pdf
+		Generating report for Location Grillon
+		Report for Location Grillon Generated
+		File : /syndata/oreport/rreports/20171202/Grillon_Land_Report_2017-12-03_02-00.pdf
+		Generating report for Location Rocher_Bellevue
+		Report for Location Rocher_Bellevue Generated
+		File : /syndata/oreport/rreports/20171202/Rocher_Bellevue_Land_Report_2017-12-03_02-00.pdf
+		Generating report for Location Bourdicotte
+		Report for Location Bourdicotte Generated
+		File : /syndata/oreport/rreports/20171202/Bourdicotte_Land_Report_2017-12-03_02-00.pdf
+		Generating report for Location Grand_Ferrand
+		Report for Location Grand_Ferrand Generated
+		File : /syndata/oreport/rreports/20171202/Grand_Ferrand_Land_Report_2017-12-03_02-00.pdf
+		Generating report for Location La_Salagre
+		Report for Location La_Salagre Generated
+		File : /syndata/oreport/rreports/20171202/La_Salagre_Land_Report_2017-12-03_02-00.pdf
+	Generating report for SYNERGY EXP
+		Generating report for Location Saint-Ferme
+		Report for Location Saint-Ferme Generated
+		File : /syndata/oreport/rreports/20171202/Saint-Ferme_Land_Report_2017-12-03_02-00.pdf
+		Generating report for Location Melbourne
+		Report for Location Melbourne Generated
+		File : /syndata/oreport/rreports/20171202/Melbourne_Land_Report_2017-12-03_10-00.pdf
+		Generating report for Location TSTLOC_3
+		Report for Location TSTLOC_3 Generated
+		File : /syndata/oreport/rreports/20171202/TSTLOC_3_Land_Report_2017-12-03_01-00.pdf
+		Generating report for Location TSTLOC_4
+		Report for Location TSTLOC_4 Generated
+		File : /syndata/oreport/rreports/20171202/TSTLOC_4_Land_Report_2017-12-03_06-00.pdf
+		Generating report for Location Avignon
+		Report for Location Avignon Generated
+		File : /syndata/oreport/rreports/20171202/Avignon_Land_Report_2017-12-03_02-00.pdf
+		Generating report for Location Reading
+		Report for Location Reading Generated
+		File : /syndata/oreport/rreports/20171202/Reading_Land_Report_2017-12-03_01-00.pdf
+		Generating report for Location Bergen
+		Report for Location Bergen Generated
+		File : /syndata/oreport/rreports/20171202/Bergen_Land_Report_2017-12-03_02-00.pdf
+		Generating report for Location Montreal
+		Report for Location Montreal Generated
+		File : /syndata/oreport/rreports/20171202/Montreal_Land_Report_2017-12-02_20-00.pdf
+		Generating report for Location Philadelphia
+		Report for Location Philadelphia Generated
+		File : /syndata/oreport/rreports/20171202/Philadelphia_Land_Report_2017-12-02_20-00.pdf
+		Generating report for Location Tierra_del_Fuego
+		Report for Location Tierra_del_Fuego Generated
+		File : /syndata/oreport/rreports/20171202/Tierra_del_Fuego_Land_Report_2017-12-02_20-00.pdf
+		Generating report for Location Lagos
+		Report for Location Lagos Generated
+		File : /syndata/oreport/rreports/20171202/Lagos_Land_Report_2017-12-03_01-00.pdf
+		Generating report for Location Doha
+		Report for Location Doha Generated
+		File : /syndata/oreport/rreports/20171202/Doha_Land_Report_2017-12-03_03-00.pdf
+		Generating report for Location Mumbai
+		Report for Location Mumbai Generated
+		File : /syndata/oreport/rreports/20171202/Mumbai_Land_Report_2017-12-03_05-00.pdf
+		Generating report for Location Chittagong
+		Report for Location Chittagong Generated
+		File : /syndata/oreport/rreports/20171202/Chittagong_Land_Report_2017-12-03_06-00.pdf
+		Generating report for Location Singapore
+		Report for Location Singapore Generated
+		File : /syndata/oreport/rreports/20171202/Singapore_Land_Report_2017-12-03_08-00.pdf
+		Generating report for Location Hong_Kong
+		Report for Location Hong_Kong Generated
+		File : /syndata/oreport/rreports/20171202/Hong_Kong_Land_Report_2017-12-03_08-00.pdf
+		Generating report for Location Tokyo
+		Report for Location Tokyo Generated
+		File : /syndata/oreport/rreports/20171202/Tokyo_Land_Report_2017-12-03_09-00.pdf

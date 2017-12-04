@@ -1,0 +1,32 @@
+Started Generating report for 20171201 12
+	Generating report for Gardline_Geosurvey Project
+		Generating report for Location MV_Ocean_Researcher
+		Report for Location MV_Ocean_Researcher Generated
+		File : /syndata/oreport/rreports/20171201/MV_Ocean_Researcher_Weather_Report_2017-12-01_20-00.pdf
+		Generating report for Location EA_One
+		Report for Location EA_One Generated
+		File : /syndata/oreport/rreports/20171201/EA_One_Weather_Report_2017-12-02_00-00.pdf
+		Generating report for Location MV_Ocean_Reliance
+		Report for Location MV_Ocean_Reliance Generated
+		File : /syndata/oreport/rreports/20171201/MV_Ocean_Reliance_Weather_Report_2017-12-02_01-00.pdf
+		Generating report for Location MV_Ocean_Observer
+		Report for Location MV_Ocean_Observer Generated
+		File : /syndata/oreport/rreports/20171201/MV_Ocean_Observer_Weather_Report_2017-12-02_01-00.pdf
+	Generating report for Total TEPM
+		Generating report for Location Yadana
+		Report for Location Yadana Generated
+		File : /syndata/oreport/rreports/20171201/Yadana_Weather_Report_2017-12-02_06-00.pdf
+	Generating report for Sapura ASIA
+		Generating report for Location Bualuang
+		Report for Location Bualuang Generated
+		File : /syndata/oreport/rreports/20171201/Bualuang_Weather_Report_2017-12-02_07-00.pdf
+		Generating report for Location F12
+		Report for Location F12 Generated
+		File : /syndata/oreport/rreports/20171201/F12_Weather_Report_2017-12-02_08-00.pdf
+	Generating report for TRPCL_ADV_TEST Project
+		Generating report for Location TA_TESTLOC_1
+		Report for Location TA_TESTLOC_1 Generated
+		File : /syndata/oreport/rreports/20171201/TA_TESTLOC_1_Weather_Report_2017-12-02_06-00.pdf
+		Generating report for Location CYCLONE_TEST1
+		Report for Location CYCLONE_TEST1 Generated
+		File : /syndata/oreport/rreports/20171201/CYCLONE_TEST1_Weather_Report_2017-12-02_08-00.pdf

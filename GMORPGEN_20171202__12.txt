@@ -1,0 +1,33 @@
+Started Generating report for 20171202 12
+	Generating report for Dialog_Plant_Services Project
+		Generating report for Location Pengerang_Terminal
+		Report for Location Pengerang_Terminal Generated
+		File : /syndata/oreport/rreports/20171202/Pengerang_Terminal_Weather_Report_2017-12-03_08-00.pdf
+	Generating report for Sapura_Offshore Project
+		Generating report for Location Zawtika_1C
+		Report for Location Zawtika_1C Generated
+		File : /syndata/oreport/rreports/20171202/Zawtika_1C_Weather_Report_2017-12-03_06-00.pdf
+		Generating report for Location E6_Site
+		Report for Location E6_Site Generated
+		File : /syndata/oreport/rreports/20171202/E6_Site_Weather_Report_2017-12-03_01-00.pdf
+	Generating report for Global_Marine_Group Project
+		Generating report for Location Limin_Venture
+		Report for Location Limin_Venture Generated
+		File : /syndata/oreport/rreports/20171202/Limin_Venture_Weather_Report_2017-12-03_07-00.pdf
+	Generating report for Sapura_Energy Project
+		Generating report for Location Emerald
+		Report for Location Emerald Generated
+		File : /syndata/oreport/rreports/20171202/Emerald_Weather_Report_2017-12-03_05-00.pdf
+		Generating report for Location BCPA_Site
+		Report for Location BCPA_Site Generated
+		File : /syndata/oreport/rreports/20171202/BCPA_Site_Weather_Report_2017-12-03_05-00.pdf
+		Generating report for Location B55_Site
+		Report for Location B55_Site Generated
+		File : /syndata/oreport/rreports/20171202/B55_Site_Weather_Report_2017-12-03_05-00.pdf
+		Generating report for Location WI6_Site
+		Report for Location WI6_Site Generated
+		File : /syndata/oreport/rreports/20171202/WI6_Site_Weather_Report_2017-12-03_05-00.pdf
+	Generating report for Total_EP_Myanmar Project
+		Generating report for Location Yadana_Field
+		Report for Location Yadana_Field Generated
+		File : /syndata/oreport/rreports/20171202/Yadana_Field_Weather_Report_2017-12-03_06-00.pdf

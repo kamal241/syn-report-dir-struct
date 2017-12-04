@@ -1,0 +1,4 @@
+client,lname,reportfile
+Total,Atlantic,/syndata/oreport/rreports/20170610/Atlantic_Weather_Report_2017-06-10_14-00.pdf
+Total,NorthSea,/syndata/oreport/rreports/20170610/NorthSea_Weather_Report_2017-06-10_19-00.pdf
+Total,Yadana,/syndata/oreport/rreports/20170610/Yadana_Weather_Report_2017-06-11_00-00.pdf

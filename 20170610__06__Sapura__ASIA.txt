@@ -1,0 +1,4 @@
+client,lname,reportfile
+Sapura,Gulf,/syndata/oreport/rreports/20170610/Gulf_Weather_Report_2017-06-10_22-00.pdf
+Sapura,Bualuang,/syndata/oreport/rreports/20170610/Bualuang_Weather_Report_2017-06-11_01-00.pdf
+Sapura,F12,/syndata/oreport/rreports/20170610/F12_Weather_Report_2017-06-11_02-00.pdf

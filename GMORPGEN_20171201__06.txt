@@ -1,0 +1,8 @@
+Started Generating report for 20171201 06
+	Generating report for Sapura_Offshore Project
+		Generating report for Location Zawtika_1C
+		Report for Location Zawtika_1C Generated
+		File : /syndata/oreport/rreports/20171201/Zawtika_1C_Weather_Report_2017-12-02_00-00.pdf
+		Generating report for Location E6_Site
+		Report for Location E6_Site Generated
+		File : /syndata/oreport/rreports/20171201/E6_Site_Weather_Report_2017-12-01_19-00.pdf

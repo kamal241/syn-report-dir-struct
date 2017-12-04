@@ -1,0 +1,5 @@
+Started Generating report for 20171106 00
+	Generating report for Total_EP_Myanmar Project
+		Generating report for Location Yadana_Field
+		Report for Location Yadana_Field Generated
+		File : /syndata/oreport/rreports/20171106/Yadana_Field_Weather_Report_2017-11-06_18-00.pdf
